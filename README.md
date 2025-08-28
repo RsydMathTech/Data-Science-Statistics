@@ -2,7 +2,6 @@
 
 # Data Science Statistics
 
-Kumpulan notebook statistik yang saya kerjakan sebagai bagian dari pembelajaran Data Analysis & Data Science.  
 Repository ini berisi materi fundamental statistik yang umum digunakan dalam Machine Learning dan Data Science projects.  
 
 ## Data Science & Statistics Learning Path (Up-to-Date)
@@ -26,17 +25,16 @@ Repository ini berisi materi fundamental statistik yang umum digunakan dalam Mac
 
 ## Tools & Tech  
 - Python (Jupyter Notebook)  
-- Pandas, NumPy  
-- Matplotlib, Seaborn  
+- Pandas
+- NumPy  
+- Matplotlib
+- Seaborn  
 - Scikit-learn (sklearn)  
+- Statsmodels
+- SciPy (statistical tests & distributions)  
 
-## Tujuan Project  
-- Membangun dasar statistik untuk Data Science.  
-- Menjadi bagian dari portofolio Data Analyst / Data Scientist.  
-- Bahan belajar sebelum lanjut ke Machine Learning.  
+## Tujuan Repository  
+- Membangun perhitungan statistik untuk Data Science.
+- Membangun kemudahan dalam mengaplikasikan Machine Learning
 
-## Catatan  
-Repository ini akan terus diupdate seiring perjalanan belajar saya.  
-Materi selanjutnya: Polynomial Regression, Logistic Regression, dll 🔥  
-
-**Dibuat oleh:** RsydMathTech  
+**Dibuat oleh:** RsydMathTech
