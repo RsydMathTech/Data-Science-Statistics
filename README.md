@@ -1,17 +1,28 @@
+# <h1 align="center"> © RsydMathTech. <h1/>
+
 # Data-Science-Statistics  
 
 Kumpulan notebook statistik yang saya kerjakan sebagai bagian dari pembelajaran Data Analysis & Data Science.  
 Repository ini berisi materi fundamental statistik yang umum digunakan dalam Machine Learning dan Data Science projects.  
 
-## Isi Repo (Up-to-Date)  
-- **ANOVA.ipynb** → Analisis varians untuk membandingkan rata-rata antar kelompok.  
-- **Correlation and Regression.ipynb** → Korelasi & regresi sederhana.  
-- **Data Normalization Formula.ipynb** → Normalisasi data (Min-Max, Z-score).  
-- **Descriptive Stats.ipynb** → Statistik deskriptif (mean, median, modus, dll).  
-- **Pearson Correlation.ipynb** → Korelasi Pearson untuk hubungan antar variabel.  
-- **SLR - MLR.ipynb** → Simple & Multiple Linear Regression.  
-- **SLR - MLR Evaluation Model.ipynb** → Evaluasi model regresi dengan metrik (R², MSE, RMSE).  
-- **README.md** → Dokumentasi repo ini.  
+## Data Science & Statistics Learning Path (Up-to-Date)
+
+1. [Data Normalization Formula](Data-Normalization-Formula.ipynb)
+2. [Descriptive Stats](Descriptive-Stats.ipynb)
+3. [ANOVA](ANOVA.ipynb)
+4. [Correlation and Regression](Correlation-and-Regression.ipynb)
+5. [Pearson Correlation](Pearson-Correlation.ipynb)
+6. [SLR - MLR](SLR-MLR.ipynb)
+7. [SLR - MLR Evaluation Model](SLR-MLR-Evaluation-Model.ipynb)
+8. [Measures for In-Sample Evaluation](Measures-for-In-Sample-Evaluation.ipynb)
+9. [Model Evaluation](Model-Evaluation.ipynb)
+10. [Overfitting, Underfitting and Model Selection](Overfitting-Underfitting-and-Model-Selection.ipynb)
+11. [Grid Search](Grid-Search.ipynb)
+12. [Lasso and Support Vector Regression](Lasso-and-Support-Vector-Regression.ipynb)
+13. [Ridge Regression](Ridge-Regression.ipynb)
+14. [Polynomial Regression (PLR)](Polynomial-Regression-(PLR).ipynb)
+15. [Prediction and Decision Making](Prediction-and-Decision-Making.ipynb)
+16. [SLR vs MLR vs PLR](SLR-vs-MLR-vs-PLR.ipynb)
 
 ## Tools & Tech  
 - Python (Jupyter Notebook)  
